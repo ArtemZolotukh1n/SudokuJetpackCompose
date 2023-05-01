@@ -4,6 +4,9 @@ Jetpack Compose Sudoku is a lightweight, clean, and minimalist Sudoku app built 
 
 # Features
 ‧ Jetpack Compose - Built with the latest Jetpack Compose toolkit for a modern and declarative UI
+
 ‧ Custom Dependency Injection - Implemented without third-party libraries for better maintainability
+
 ‧ Custom Navigation - Built-in navigation solution without relying on third-party libraries
+
 ‧ Custom ViewModels - Created without any third-party libraries, showcasing knowledge of Android SDK
